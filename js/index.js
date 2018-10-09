@@ -22,6 +22,7 @@ console.log("Hi welcome to my calculator");
         }
       }
 
+
       else if (caltype == "H"){
 
         var sqorrt = prompt ("Would you like to Square a number or Square root?");
@@ -39,3 +40,5 @@ console.log("Hi welcome to my calculator");
           console.log("Try again");
         }
       }
+
+      // commit one 
